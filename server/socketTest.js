@@ -1,7 +1,7 @@
 import { io } from "socket.io-client";
 
-const socketA = io("http://localhost:5000");
-const socketB = io("http://localhost:5000");
+const socketA = io("https://zoom-clone-wnsp.onrender.com");
+const socketB = io("https://zoom-clone-wnsp.onrender.com");
 
 socketA.on("connect", () => {
   console.log("A connected:", socketA.id);

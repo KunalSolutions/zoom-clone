@@ -274,7 +274,7 @@ const useWebRTC = (meetingId) => {
     let mounted = true;
 
     const socket = io(
-      "http://localhost:5000"
+      "https://zoom-clone-wnsp.onrender.com"
     );
 
     socketRef.current = socket;
