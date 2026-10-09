@@ -66,7 +66,7 @@ const CreateMeeting = () => {
           </div>
 
           <span className="font-semibold">
-            ZoomLite
+            AVSI WORKSPACE
           </span>
         </div>
       </header>

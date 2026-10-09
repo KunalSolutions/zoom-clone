@@ -924,7 +924,7 @@ const MeetingRoom = () => {
 
           <div>
             <span className="text-lg font-semibold">
-              ZoomLite
+              AVSI WORKSPACE
             </span>
 
             <div className="hidden sm:block text-xs text-zinc-500">

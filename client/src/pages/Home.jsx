@@ -36,7 +36,7 @@ const Home = () => {
           </div>
 
           <span className="text-xl font-semibold">
-            ZoomLite
+            AVSI WORKSPACE
           </span>
         </div>
 

@@ -250,12 +250,12 @@ const AdminDashboard = () => {
 
           <div className="h-9 w-9 rounded-lg bg-blue-600 flex items-center justify-center">
             <span className="font-bold">
-              Z
+              A
             </span>
           </div>
 
           <span className="text-xl font-semibold">
-            ZoomLite
+            AVSI WORKSPACE
           </span>
 
         </div>

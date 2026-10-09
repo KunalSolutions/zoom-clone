@@ -107,7 +107,7 @@ const WaitingRoom = () => {
           </div>
 
           <span className="text-xl font-semibold">
-            ZoomLite
+            AVSI WORKSPACE
           </span>
         </div>
       </header>
@@ -149,7 +149,7 @@ const WaitingRoom = () => {
 
           <div className="mt-5 flex items-center justify-center gap-2 text-xs text-zinc-600">
             <Video size={14} />
-            ZoomLite Meeting
+            AVSI WORKSPACE Meeting
           </div>
 
         </div>

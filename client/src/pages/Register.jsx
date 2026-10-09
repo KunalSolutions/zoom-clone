@@ -73,7 +73,7 @@ const Register = () => {
           </div>
 
           <span className="font-semibold">
-            ZoomLite
+            AVSI WORKSPACE
           </span>
         </div>
       </header>
@@ -91,7 +91,7 @@ const Register = () => {
               </h1>
 
               <p className="mt-2 text-sm text-zinc-400">
-                Create your ZoomLite account.
+                Create your AVSI WORKSPACE account.
               </p>
             </div>
 

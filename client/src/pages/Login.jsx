@@ -74,7 +74,7 @@ const Login = () => {
           </div>
 
           <span className="font-semibold">
-            ZoomLite
+            AVSI WORKSPACE
           </span>
         </div>
       </header>
@@ -92,7 +92,7 @@ const Login = () => {
               </h1>
 
               <p className="mt-2 text-sm text-zinc-400">
-                Login to continue to ZoomLite.
+                Login to continue to AVSI WORKSPACE.
               </p>
             </div>
 
